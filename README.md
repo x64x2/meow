@@ -1,4 +1,4 @@
-# feedloader
+# beep
 
 Suckless podcast downloader. Now with support for podcasts contained in YouTube playlists!
 
